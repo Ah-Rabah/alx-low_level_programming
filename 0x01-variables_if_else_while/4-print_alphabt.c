@@ -10,10 +10,9 @@ char a;
 for (a ='a'; a <= 'z'; a++)
 {
 if (a == 'q' || a == 'e')
-contnue;
-else
-putchar(a);
+{
+continue;
 }
-putchar('\n');
+putchar (a);
 return (0);
 }
