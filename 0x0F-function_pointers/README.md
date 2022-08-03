@@ -1,1 +1,1 @@
-This is function poiters project
+This is functions pointers project
